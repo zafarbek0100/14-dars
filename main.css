@@ -1,0 +1,174 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  display: flex;
+align-items: center;
+justify-content: space-between;
+margin-top: 36px;
+  ul{
+    width: 443px;
+height: 62px;
+gap: 35px;
+border-radius: 14px;
+padding: 6px;
+display: flex;
+align-items: center;
+margin-left: 550px;
+list-style-type: none;
+  }
+   button{
+    width: 180px;
+height: 45px;
+gap: 10px;
+border-radius: 12px;
+background-color: #E92129;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-right: 120px;
+   }
+
+}
+
+.head-con{
+  width: 216px;
+height: 50.43000030517578px;
+gap: 10px;
+margin-left: 156px;
+}
+ 
+main{
+  width: 1199.65625px;
+height: 578px;
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-top: 102px;
+}
+
+.main-text{
+  width: 400px;
+height: 540px;
+
+font-size: 40px;
+color: #882226;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 156px;
+
+
+}
+
+.main-img{
+  display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 200px;
+}
+.section{
+  width: 1199px;
+height: 289px;
+}
+.sec-text{
+  width: 697px;
+height: 289px;
+
+margin-left: 502px;
+gap: 33px;
+
+img{
+  margin-top: 30px;
+}
+}
+
+.section-1{
+  width: 492px;
+height: 170px;
+gap: 26px;
+font-size: 40px;
+margin-left: 157px;
+margin-top: 250px;
+}
+.section-2{
+  width: 697px;
+height: 76px;
+font-size: 34px;
+margin-top: -200px;
+margin-left: 150px;
+
+}
+.section-3{
+  width: 697px;
+height: 84px;
+font-size: 21px;
+margin-left: 150px;
+color: #817e7e;
+margin-top: 50px;
+}
+section{
+  width: 1512px;
+height: 320px;
+background-color: #0E0202;
+margin-top: 100px;
+
+img{
+  width: 1199px;
+height: 493.73333740234375px;
+margin-top: 40px;
+;
+
+  margin-left: 157px;
+}
+
+}
+
+.text-1{
+   display: flex;
+align-items: center;
+
+  color: #E92129;
+  font-size: 45px;
+  h1{
+    margin-top: 50px;
+    display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 580px;
+  }
+  
+}
+
+.aside-text{
+   margin-left: 157px;
+  width: 1199.51953125px;
+height: 493.6705627441406px;
+margin-top: 500px;
+
+}
+
+.aside-img{
+  width: 1512px;
+height: 173px;
+margin-top: 195px;
+
+}
+.footer{
+  margin-left: 156px;
+      width: 1200px;
+height: 474px;
+margin-left: 156px;
+gap: 41px;
+  
+}
+.foot-1{
+  width: 1512px;
+height: 484px;
+
+margin-top: 180px;
+
+}
